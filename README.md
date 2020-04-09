@@ -1,2 +1,1 @@
-It is mobile responsive personal portfolio WordPress Theme.
-Powered by MhrThemes.
+It is personal portfolio based WordPress Premium Theme. Theme Available on TemplateMonster: http://www.templatemonsterpreview.com/demo/99869.html
